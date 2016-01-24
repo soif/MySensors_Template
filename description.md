@@ -54,9 +54,13 @@ Formatted with the [JSON syntax](http://www.w3schools.com/json/json_syntax.asp),
 You can check if your JSON syntax is valid by using [this tool](http://jsonlint.com/).
 
 
-## description.md
+## description.md file
 
 Formatted with the [Markdown syntax](https://help.github.com/articles/markdown-basics/) , it should contain the full description of your project, starting first with an introduction text, optionally followed by some (at least second or more level) Markdown headings and texts.
 This page will be published asis on hardware.io. 
 
 You can easily preview your document by using a Margown preview site, ie [MarkdownLivePreview](http://markdownlivepreview.com/) or [Dillinger](http://dillinger.io/).
+
+
+## Preview your project
+You can check how your project will be displayed on OpenHardware.io, by submitting your repo [here](https://jsfiddle.net/soif/ek5j7pao/).
