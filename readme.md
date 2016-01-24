@@ -4,4 +4,4 @@ This project aims to serve as a base template for publishing your [MySensors](ht
 
 Please read the [documentation](description.md), for more information.
 
-We're currently discussing it at [MySensors forums] (http://forum.mysensors.org/category/30/openhardware-io).
+We're currently discussing it at [MySensors forums](http://forum.mysensors.org/topic/2915/rfc-lazy-submission-to-openhardware-io-using-github).
