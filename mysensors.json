@@ -1,13 +1,13 @@
 {
-	"gh_id": 		"soif/mysensors_template",
+	"gh_id": 		"soif/MySensors_Template",
 	"name": 		"MySensors Template",
 	"baseline": 	"A template to publish your mysensors project on OpenHardware.io",
 	"description":	"description.md",
-	"version":		"1.0",
+	"version":		"1.01",
 	"type":			"project",
 	"keywords":		"template, mysensors, OpenHardware",
 	"homepage":		"https://www.mysensors.org",
-	"time":			"2016-01-24",	
+	"time":			"2016-02-13",	
 	"license":		"MIT",
 	"authors": [
 		{
@@ -34,8 +34,8 @@
 			"file": "photo.jpg"
 		},
 		{
-			"type": "shematic",
-			"file": "shematic.png"
+			"type": "schematic",
+			"file": "schematic.png"
 		},
 		{
 			"type": "wiring",
