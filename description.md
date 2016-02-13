@@ -45,7 +45,7 @@ Formatted with the [JSON syntax](http://www.w3schools.com/json/json_syntax.asp),
  - **gh_user** *(required)* 	: Author's username @GitHub
  - **mys_user** *(required)* 	: Author's username @Mysensors
 - **images** 				:  an array describing images located in the *images/* directory, each with two fields
- - **type**						:  main | shematic | wiring | pcb_front | pcb_back | misc
+ - **type**						:  main | schematic | wiring | pcb_front | pcb_back | misc
  - **file**						:  the file's name
 - **hardware** 				:  an array describing files located in the *hardware/* directory, each with two fields
  - **type**						:  fritzing | gerber_tl | gerber_bl | gerber_ts | gerber_bs | gerber_to | gerber_bo | gerber_ml | gerber_dr
